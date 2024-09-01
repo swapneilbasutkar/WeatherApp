@@ -8,7 +8,7 @@ Before you begin, make sure you have the following installed on your local machi
 
 **Step 1: Clone the Repository**
 
-1. Clone the Copilot repository from the source code repository using the following command:
+1. Clone the WeatherApp repository from the source code repository using the following command:
 
         git clone <repository\_url> 
 
