@@ -40,10 +40,10 @@ Before you begin, make sure you have the following installed on your local machi
 
         pip install -r requirements.txt 
 
-**Step 4: Run the copilot Service**
+**Step 4: Run the app Service**
 
 1. Start the app service by running the following command:
 
-        uvicorn app.server:app --host 0.0.0.0 --port 5000 --reload 
+        uvicorn main:app --reload 
 
 The app service should now be up and running on your local machine.
